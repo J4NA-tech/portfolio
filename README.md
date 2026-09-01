@@ -8,9 +8,8 @@ This portfolio showcases my projects, technical skills, education, and experienc
 
 ## 🌐 Live Portfolio
 
-🚀 **Portfolio:** [View Live Portfolio](#)
+🚀 **Portfolio:** [View Live Portfolio](https://portfolio-git-main-jana-ffa9.vercel.app/)
 
-> The live Vercel link will be added here after deployment.
 
 ## ✨ About Me
 
@@ -88,9 +87,9 @@ An AI-powered fitness application developed as a graduation project, featuring u
 
 **Technologies:** Flutter, Dart, Supabase, Firebase, TensorFlow Lite, MediaPipe
 
-### Doctor Appointment System
+### Marble Stock Management System
 
-A web-based appointment management application developed using ASP.NET MVC.
+A web-based inventory management application developed to manage marble products, stock levels, and inventory operations efficiently.
 
 **Technologies:** C#, ASP.NET MVC, SQL
 
@@ -116,9 +115,9 @@ Biruni University
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [LinkedIn](#)
+* 💼 **LinkedIn:** [linkedin.com/in/jana-el-samra-59b657293]
 * 🐙 **GitHub:** [J4NA-tech](https://github.com/J4NA-tech)
-* 🌐 **Portfolio:** [Live Website](#)
+* 🌐 **Portfolio:** [https://portfolio-git-main-jana-ffa9.vercel.app/]
 
 ## 🚀 Development Approach
 
